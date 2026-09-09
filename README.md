@@ -1,8 +1,10 @@
 # Hi, I'm Amit Yelin
 
-I am a data professional with experience spanning military data analysis, QA engineering, and QA management. I then completed five years of university study, earning BSc and MSc degrees in neuroscience and data science.
+## Neuroscientist and data scientist
 
-My background combines hands-on responsibility for data quality and software delivery with academic training in statistics, machine learning, computational neuroscience, and scientific research. I use Python to turn complex neural and image datasets into rigorous analyses, reproducible workflows, and clear visual results.
+I combine five years of university training in neuroscience and data science with professional experience in military data analysis, QA engineering, and QA management.
+
+My background connects scientific research with hands-on responsibility for data quality and software delivery. I use Python, statistics, and machine learning to turn complex neural and image datasets into rigorous analyses, reproducible workflows, and clear visual results.
 
 ## Featured projects
 
@@ -26,6 +28,7 @@ A notebook pipeline for studying representational change over time in human prim
 
 ## What I bring
 
+- Professional experience in data analysis, QA engineering, and team management
 - Python-based data cleaning, analysis, visualization, and modeling
 - Statistical reasoning and careful evaluation of machine-learning models
 - Experience with high-dimensional neuroscience and image datasets
@@ -34,6 +37,6 @@ A notebook pipeline for studying representational change over time in human prim
 
 ## Current focus
 
-I am strengthening these projects as a portfolio for junior data-science roles, with an emphasis on reproducibility, honest evaluation, and results-first communication.
+I am developing reproducible data-science and computational-neuroscience projects, with an emphasis on honest evaluation and results-first communication.
 
-You can explore the pinned projects below or contact me through GitHub.
+You can explore the featured projects above or contact me through GitHub.
