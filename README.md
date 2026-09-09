@@ -4,7 +4,7 @@
 
 I combine five years of university training in neuroscience and data science with professional experience in military data analysis, QA engineering, and QA management.
 
-My background connects scientific research with hands-on responsibility for data quality and software delivery. I use Python, statistics, and machine learning to turn complex neural and image datasets into rigorous analyses, reproducible workflows, and clear visual results.
+My background connects scientific research with hands-on responsibility for data quality, software delivery, and team leadership. I use Python, statistics, and machine learning to turn complex data into rigorous analyses, reproducible workflows, and clear decisions. My current portfolio includes computational-neuroscience and computer-vision work, while my broader interests span applied data science, predictive modeling, experimentation, and analytics.
 
 ## Featured projects
 
@@ -31,12 +31,12 @@ A notebook pipeline for studying representational change over time in human prim
 - Professional experience in data analysis, QA engineering, and team management
 - Python-based data cleaning, analysis, visualization, and modeling
 - Statistical reasoning and careful evaluation of machine-learning models
-- Experience with high-dimensional neuroscience and image datasets
+- Experience translating complex, high-dimensional data into useful conclusions
 - Reproducible workflows with documented environments, tests, and CI
-- Clear communication of methods, limitations, and preliminary results
+- Clear communication of methods, limitations, and results
 
 ## Current focus
 
-I am developing reproducible data-science and computational-neuroscience projects, with an emphasis on honest evaluation and results-first communication.
+I am developing reproducible data-science projects and expanding my work across applied machine learning, analytics, experimentation, and neuroscience.
 
 You can explore the featured projects above or contact me through GitHub.
