@@ -1,6 +1,8 @@
 # Hi, I'm Amit Yelin
 
-I am an aspiring data scientist interested in machine learning, statistical analysis, computer vision, and computational neuroscience. My projects use Python to turn complex neural and image data into reproducible analyses and clear visual results.
+I am a data professional with experience spanning military data analysis, QA engineering, and QA management. I then completed five years of university study, earning BSc and MSc degrees in neuroscience and data science.
+
+My background combines hands-on responsibility for data quality and software delivery with academic training in statistics, machine learning, computational neuroscience, and scientific research. I use Python to turn complex neural and image datasets into rigorous analyses, reproducible workflows, and clear visual results.
 
 ## Featured projects
 
