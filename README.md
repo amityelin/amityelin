@@ -20,9 +20,9 @@ Exploratory modeling of image memorability from human fMRI and monkey electrophy
 
 **Tools:** Python, pandas, scikit-learn, PyTorch, statistical visualization, Jupyter
 
-### [Master's thesis: two-model analysis of NSD](https://github.com/amityelin/rep_over_time_2_models)
+### [Master's thesis in progress: two-model analysis of NSD](https://github.com/amityelin/rep_over_time_2_models)
 
-The codebase for my master's thesis, using Natural Scenes Dataset (NSD) data to compare two computational models of human visual-cortex responses. It is organized as a multi-stage notebook workflow covering feature construction, pRF-based sampling, voxel-wise modeling, permutation analysis, aggregation, and visualization.
+This ongoing codebase supports my master's thesis, which is currently in progress and uses Natural Scenes Dataset (NSD) data to compare two computational models of human visual-cortex responses. It is organized as a multi-stage notebook workflow covering feature construction, pRF-based sampling, voxel-wise modeling, permutation analysis, aggregation, and visualization.
 
 **Tools:** Python, NumPy, Jupyter, HDF5, regression, permutation methods, computational neuroscience
 
