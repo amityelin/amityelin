@@ -2,9 +2,9 @@
 
 ## Neuroscientist and data scientist
 
-I combine five years of university training in neuroscience and data science with professional experience in military data analysis, QA engineering, and QA management.
+I combine five years of university training in neuroscience and data science with experience as a data analyst during my military service, followed by roles in industry as a QA engineer and team leader.
 
-My background connects scientific research with hands-on responsibility for data quality, software delivery, and team leadership. I use Python, statistics, and machine learning to turn complex data into rigorous analyses, reproducible workflows, and clear decisions. My current portfolio includes computational-neuroscience and computer-vision work, while my broader interests span applied data science, predictive modeling, experimentation, and analytics.
+My background connects scientific research with hands-on responsibility for data analysis, software quality, delivery, and team leadership. I use Python, statistics, and machine learning to turn complex data into rigorous analyses, reproducible workflows, and clear decisions. My current portfolio includes computational-neuroscience and computer-vision work, while my broader interests span applied data science, predictive modeling, experimentation, and analytics.
 
 ## Featured projects
 
@@ -28,7 +28,8 @@ A notebook pipeline for studying representational change over time in human prim
 
 ## What I bring
 
-- Professional experience in data analysis, QA engineering, and team management
+- Data-analysis experience from military service
+- Industry experience as a QA engineer and team leader
 - Python-based data cleaning, analysis, visualization, and modeling
 - Statistical reasoning and careful evaluation of machine-learning models
 - Experience translating complex, high-dimensional data into useful conclusions
